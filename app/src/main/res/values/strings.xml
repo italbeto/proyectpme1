@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Prueba1 PME</string>
+    <string name="title_activity_honorarios">ActivityHonorarios</string>
+    <string name="button">Button</string>
+    <string name="textview">TextView</string>
+    <string name="calcular_pago">calcular pago</string>
+</resources>
